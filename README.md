@@ -7,4 +7,4 @@ Repositorio de los juegos que hemos desarrollado en el curso de Unity 2020
 3. Runner
 4. Sumo
 5. Clicker
-6. John lwmon
+6. John Lemon
